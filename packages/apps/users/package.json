@@ -1,0 +1,19 @@
+{
+  "name": "users",
+  "version": "1.0.0",
+  "description": "users package",
+  "author": "Oscar Vinueza <os.vinueza94@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/users.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
